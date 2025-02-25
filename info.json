@@ -1,0 +1,8 @@
+{
+  "Id": "[ProjectName]",
+  "DisplayName": "[ProjectName]",
+  "author": "SKNTheLisper",
+  "Version": "1.0.0",
+  "GameVersion": "1.87.0",
+  "EntryMethod": "[ProjectName].Main.Load"
+}
